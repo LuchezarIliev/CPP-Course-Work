@@ -1,0 +1,15 @@
+Name: Luchezar Iliev EGN: 9805057345
+Additional info: 
+Average grade: 5.55 Behavior: Good
+Discount = 35%
+
+Name: Ivan Dimitrov EGN: 98123123
+Additional info: 
+Subject: Fizika Rating: 3.5
+Discount = 15%
+
+Name: Ivan Ivanov EGN: 9123123
+Additional info: 
+Average grade: 3.5 Behavior: Moderate
+No discount! 0%
+

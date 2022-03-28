@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1574647457 source:c:\users\user\desktop\kursovproekt\kursovproekt\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<limits>
+	<string>
+
+1574647457 source:c:\users\user\desktop\pe kursovproekt luchezar iliev 121217151\kursovproekt\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<limits>
+	<string>
+
+1580664048 source:d:\technical university - stuff\random\pe\kursovproekt\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<limits>
+	<string>
+
